@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
 	cout<<"Hello world "<<endl;
-	cout<<"Revising cpp\\ concepts";
+	cout<<"Revising cpp concepts";
 	return 0;
 }
