@@ -14,7 +14,7 @@ int main(){
 	
 	int x=0;
 	for(int i=0; i<n; i++){
-		if(operations[i]=="x++"||operations[i]=="x++"){
+		if(operations[i]=="x++"||operations[i]=="++x"){
 			x++;
 		}
 		else if(operations[i]=="x--"||operations[i]=="--x"){
